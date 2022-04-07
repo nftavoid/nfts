@@ -1,0 +1,66 @@
+{
+  "name": "Holders Horses #1588",
+  "symbol": "🐴",
+  "description": "2,222 Holder Horses that  give you rewards from every Holder Horse transaction in second markets and help to charity for children in need.",
+  "seller_fee_basis_points": 9000,
+  "image": "https://raw.githubusercontent.com/YisusSM/metadata/main/1588.png",
+  "external_url": "",
+  "edition": 1588,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Tube",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Custome",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Saddle seat",
+      "value": "Halloween"
+    },
+    {
+      "trait_type": "Horsehair",
+      "value": "Bluink"
+    },
+    {
+      "trait_type": "Horseshoe",
+      "value": "Yellow"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AtSCJzH9b6tYyVth3Jy7NBDkreRYPCehKorJL783RteM",
+        "share": 10
+      },
+      {
+        "address": "EEo3funrmAc3727a3MzEzoqYfcy9gwcKpPeunVXbzNii",
+        "share": 10
+      },
+      {
+        "address": "YHRrbExaVxcpEk4wBFt3aozh31VLmdmKRKUvC8h7p1J",
+        "share": 10
+      },
+      {
+        "address": "7W5iZYcYV5m7hpT9EsLn3w1p4jGDkkU6Kdeqz1qF13Qc",
+        "share": 70
+      }
+    ]
+  }
+}
