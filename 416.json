@@ -1,0 +1,66 @@
+{
+  "name": "Holders Horses #416",
+  "symbol": "🐴",
+  "description": "2,222 Holder Horses that  give you rewards from every Holder Horse transaction in second markets and help to charity for children in need.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "",
+  "edition": 416,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Tube",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Custome",
+      "value": "Horn"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Saddle seat",
+      "value": "Blue Race"
+    },
+    {
+      "trait_type": "Horsehair",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Horseshoe",
+      "value": "Yellow"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AtSCJzH9b6tYyVth3Jy7NBDkreRYPCehKorJL783RteM",
+        "share": 10
+      },
+      {
+        "address": "EEo3funrmAc3727a3MzEzoqYfcy9gwcKpPeunVXbzNii",
+        "share": 10
+      },
+      {
+        "address": "YHRrbExaVxcpEk4wBFt3aozh31VLmdmKRKUvC8h7p1J",
+        "share": 10
+      },
+      {
+        "address": "7W5iZYcYV5m7hpT9EsLn3w1p4jGDkkU6Kdeqz1qF13Qc",
+        "share": 70
+      }
+    ]
+  }
+}
